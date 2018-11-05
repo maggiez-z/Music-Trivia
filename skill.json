@@ -5,17 +5,17 @@
         "en-US": {
           "summary": "A trivia game made better with Echo Buttons for competitive play.",
           "examplePhrases": [
-            "Alexa, open better buttons trivia",
-            "Alexa, start better buttons trivia",
-            "Alexa, ask better buttons trivia to start a new game"
+            "Alexa, open music trivia",
+            "Alexa, start music trivia",
+            "Alexa, ask music trivia to start a new game"
           ],
           "keywords": [
             "buttons",
             "games",
             "trivia"
           ],
-          "name": "Better with Buttons Trivia Template",
-          "description": "This is a fast-paced, trivia-style game, made better with Echo Buttons. Challenge your friends, or play by yourself."
+          "name": "Music Trivia Template",
+          "description": "This is a fast-paced, music theory trivia game, made better with Echo Buttons. Challenge your friends, or play by yourself."
         },
         "en-GB": {
           "summary": "A trivia game featuring Echo Buttons for competitive play.",
@@ -30,7 +30,7 @@
             "trivia"
           ],
           "name": "Better With Buttons Trivia Template",
-          "description": "This is a fast-paced, trivia-style game, made better with Echo Buttons. Challenge your friends, or play by yourself."
+          "description": "This is a fast-paced, music theory trivia game, made better with Echo Buttons. Challenge your friends, or play by yourself."
         },
         "de-DE": {
           "summary": "Ein Trivia-Spiel, das mit Echo Buttons besser gemacht wird.",

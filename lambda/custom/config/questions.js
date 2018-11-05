@@ -49,127 +49,151 @@ module.exports = Object.freeze({
     questions_en_US: [
         {
             index: 1,
-            question: 'What is the name for a group of lions?',
-            answers: ['pack', 'pride', 'den', 'frat'],
-            correct_answer: 'pride'
+            question: 'What does the musical term accelerando mean?',
+            answers: ['accelerate', 'get slower', 'fast', 'get softer'],
+            correct_answer: 'accelerate'
         },
         {
           index: 2,
-          question: 'What is the only type of bear native to South America?',
-          answers: ['brown bear', 'kodiac', 'giant panda', 'spectacled bear'],
-          correct_answer: 'spectacled bear'
+          question: 'If the music says ah tempo what do you do?',
+          answers: ['go to the end', 'go to the beginning', 'play the original tempo', 'slur'],
+          correct_answer: 'play the original tempo'
         },
         {
             index: 3,
-            question: 'What type of animal is a seahorse?',
-            answers: ['crustacean', 'arachnid', 'fish', 'shell'],
-            correct_answer: 'fish'
+            question: 'What does the musical term adagio mean?',
+            answers: ['fast', 'sweetly', 'hurried', 'slow'],
+            correct_answer: 'slow'
         },
         {
             index: 4,
-            question: 'What color are zebras?',
-            answers: ['white with black stripes', 'black with white stripes'],
-            correct_answer: 'black with white stripes'
+            question: 'What speed is presto?',
+            answers: ['fast', 'slow'],
+            correct_answer: 'fast'
         },
         {
             index: 5,
-            question: 'What is the fastest water animal?',
-            answers: ['porpoise', 'sailfish', 'flying fish', 'tuna'],
-            correct_answer: 'sailfish'
+            question: 'What musical term means decrease in volume?',
+            answers: ['decrescendo', 'crescendo', 'molto'],
+            correct_answer: 'decrescendo'
         },
         {
             index: 6,
-            question: 'What is the only venomous snake found in Britain?',
-            answers: ['cobra', 'coral snake', 'copperhead', 'adder'],
-            correct_answer: 'adder'
+            question: 'How many players does a quartet have?',
+            answers: ['five', 'two', 'four', 'one'],
+            correct_answer: 'four'
         },
         {
             index: 7,
-            question: 'What is a female donkey called?',
-            answers: ['joey', 'jenny', 'janet'],
-            correct_answer: 'jenny'
+            question: 'Which of the following instruments is a woodwind?',
+            answers: ['trumpet', 'bass', 'clarinet'],
+            correct_answer: 'clarinet'
         },
         {
             index: 8,
-            question: 'What land mammal other than man has the longest lifespan?',
-            answers: ['blue whale', 'dolphin', 'elephant', 'orangutan'],
-            correct_answer: 'elephant'
+            question: 'How many lines does the music staff have?',
+            answers: ['five', 'six', 'four', 'seven'],
+            correct_answer: 'five'
         },
         {
             index: 9,
-            question: 'Eskimos call what kind of creature a nanook?',
-            answers: ['penguin', 'narwhal', 'polar bear', 'caribou'],
-            correct_answer: 'polar bear'
+            question: 'What raises a note one half step?',
+            answers: ['a flat', 'a sharp', 'stairs', 'double flat'],
+            correct_answer: 'a sharp'
         },
         {
             index: 10,
-            question: 'Lupus is the Latin name for what animal?',
-            answers: ['dog', 'cat', 'wolf', 'fox'],
-            correct_answer: 'wolf'
-        }
+            question: 'What is another name for the musical staff?',
+            answers: ['music lines', 'stave', 'notation paper'],
+            correct_answer: 'stave'
+        },
+        {
+            index: 11,
+            question: 'Can note stems go up or down or both?',
+            answers: ['up', 'down', 'both'],
+            correct_answer: 'both'
+        },
+        {
+            index: 12,
+            question: 'What does a flag added to a note do?',
+            answers: ['half it', 'double it', 'triple it'],
+            correct_answer: 'half it'
+        },
 
     ],
     questions_en_GB: [
-      {
-          index: 1,
-          question: 'What is the name for a group of lions?',
-          answers: ['pack', 'pride', 'den', 'frat'],
-          correct_answer: 'pride'
-      },
-      {
+        {
+            index: 1,
+            question: 'What does the musical term accelerando mean?',
+            answers: ['accelerate', 'get slower', 'fast', 'get softer'],
+            correct_answer: 'accelerate'
+        },
+        {
           index: 2,
-          question: 'What is the only type of bear native to South America?',
-          answers: ['brown bear', 'kodiac', 'giant panda', 'spectacled bear'],
-          correct_answer: 'spectacled bear'
-      },
-      {
-          index: 3,
-          question: 'What type of animal is a seahorse?',
-          answers: ['crustacean', 'arachnid', 'fish', 'shell'],
-          correct_answer: 'fish'
-      },
-      {
-          index: 4,
-          question: 'What color are zebras?',
-          answers: ['white with black stripes', 'black with white stripes'],
-          correct_answer: 'black with white stripes'
-      },
-      {
-          index: 5,
-          question: 'What is the fastest water animal?',
-          answers: ['porpoise', 'sailfish', 'flying fish', 'tuna'],
-          correct_answer: 'sailfish'
-      },
-      {
-          index: 6,
-          question: 'What is the only venomous snake found in Britain?',
-          answers: ['cobra', 'coral snake', 'copperhead', 'adder'],
-          correct_answer: 'adder'
-      },
-      {
-          index: 7,
-          question: 'What is a female donkey called?',
-          answers: ['joey', 'jenny', 'janet'],
-          correct_answer: 'jenny'
-      },
-      {
-          index: 8,
-          question: 'What land mammal other than man has the longest lifespan?',
-          answers: ['blue whale', 'dolphin', 'elephant', 'orangutan'],
-          correct_answer: 'elephant'
-      },
-      {
-          index: 9,
-          question: 'Eskimos call what kind of creature a nanook?',
-          answers: ['penguin', 'narwhal', 'polar bear', 'caribou'],
-          correct_answer: 'polar bear'
-      },
-      {
-          index: 10,
-          question: 'Lupus is the Latin name for what animal?',
-          answers: ['dog', 'cat', 'wolf', 'fox'],
-          correct_answer: 'wolf'
-      }
+          question: 'If the music says ah tempo what do you do?',
+          answers: ['go to the end', 'go to the beginning', 'play the original tempo', 'slur'],
+          correct_answer: 'play the original tempo'
+        },
+        {
+            index: 3,
+            question: 'What does the musical term adagio mean?',
+            answers: ['fast', 'sweetly', 'hurried', 'slow'],
+            correct_answer: 'slow'
+        },
+        {
+            index: 4,
+            question: 'What speed is presto?',
+            answers: ['fast', 'slow'],
+            correct_answer: 'fast'
+        },
+        {
+            index: 5,
+            question: 'What musical term means decrease in volume?',
+            answers: ['decrescendo', 'crescendo', 'molto'],
+            correct_answer: 'decrescendo'
+        },
+        {
+            index: 6,
+            question: 'How many players does a quartet have?',
+            answers: ['five', 'two', 'four', 'one'],
+            correct_answer: 'four'
+        },
+        {
+            index: 7,
+            question: 'Which of the following instruments is a woodwind?',
+            answers: ['trumpet', 'bass', 'clarinet'],
+            correct_answer: 'clarinet'
+        },
+        {
+            index: 8,
+            question: 'How many lines does the music staff have?',
+            answers: ['five', 'six', 'four', 'seven'],
+            correct_answer: 'five'
+        },
+        {
+            index: 9,
+            question: 'What raises a note one half step?',
+            answers: ['a flat', 'a sharp', 'stairs', 'double flat'],
+            correct_answer: 'a sharp'
+        },
+        {
+            index: 10,
+            question: 'What is another name for the musical staff?',
+            answers: ['music lines', 'stave', 'notation paper'],
+            correct_answer: 'stave'
+        },
+        {
+            index: 11,
+            question: 'Can note stems go up or down or both?',
+            answers: ['up', 'down', 'both'],
+            correct_answer: 'both'
+        },
+        {
+            index: 12,
+            question: 'What does a flag added to a note do?',
+            answers: ['half it', 'double it', 'triple it'],
+            correct_answer: 'half it'
+        },
   ],
   questions_de_DE: [
     {

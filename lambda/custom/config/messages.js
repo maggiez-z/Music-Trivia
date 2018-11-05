@@ -13,8 +13,8 @@
 
 const questions = require('./questions');
 const settings = require('./settings');
-const GAME_TITLE = 'Better with Buttons Trivia';
-const GAME_TITLE_GERMAN = 'Besser mit Buttons Trivia';
+const GAME_TITLE = 'Music Trivia';
+const GAME_TITLE_GERMAN = 'Musik Wissenswertes';
 
 const messages = {
   en: {
@@ -84,7 +84,7 @@ const messages = {
       //--------------------  Roll Call Related Prompts -------------------------------------------
       //
       'ROLL_CALL_HELP': {
-        outputSpeech: 'This is a trivia game for Echo Buttons. ' +
+        outputSpeech: 'This is a music trivia game for Echo Buttons. ' +
           'In order to play the game, each player must check in by ' +
           'pressing an Echo Button. Would you like to continue and ' +
           'check players in for the game?',
